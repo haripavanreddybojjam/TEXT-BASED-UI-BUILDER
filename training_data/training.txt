@@ -1,0 +1,35 @@
+
+I want a grey background. I also need two text boxes. Make the text font calibri and font size 16. The text should be red.
+
+I want a black background. Give me a text box and a button. Make the text green. Text font should be arial. I would like the font size to be 18.
+
+Background should be white. Give me two buttons. Text colour should be blue. Text font should be century. Make the font size 14.
+
+I want a white background with blue foreground. Text font should be cambria. Font size should be 14. Give me 8 text boxes and one button.
+
+I want a grey background with blue foreground. Give me 6 text boxes and 3 buttons. Font size should be 12. Text Font should be calibri.
+
+Give me light blue background with black foreground. Give me two text boxes and two buttons. Make the text font century. Text size should be 12.
+
+Give me a light orange background with black foreground. Give me two text boxes of length 20 and 8 breadth. Give me a button of length 15 and 6 breadth. Give me one more button of length 4 and breadth 4.
+
+I want a grey background. Give me 4 white text boxes. One yellow button. Text font is Georgia and text size is 12.
+
+Give me black background with blue foreground. Give me one button. Font size is 20 and font style is arial.
+
+I want a white background with red foreground. Give me 6 buttons and 8 text boxes. Text font 
+should be times new roman.
+
+Give me a dark blue background with white foreground. 12 check boxes. Give me a button. font size is 12 and text font is Candara.
+
+Give me a black background. Give me two white text boxes. Font colour should be black. Give me one white button. Text font is calibri and text size is 10.
+
+Give me a white background. Give me three text boxes with blue borders. Font size is 12, text font is arial and text colour is black. Give me two white buttons, each with blue border. 
+
+I want a white background. Give me 4 checkboxes. Give me two buttons. Text font is arial black. Font size is 12. Font colour is dark blue.
+
+Give me a grey background. Give me one dropdown menu. Give me 8 checkboxes. Give me 3 buttons. Text font is book antiqua. Font colour should be black and font size is 12.
+
+Give me a yellow background. I want 4 red buttons. The font colour should be white. Font size is 12. Text Font is Bahnschrift.
+
+Give me a white background. I want 3 buttons. The button colour should be light blue. Give me a dropdown menu. Font size should be 10. Font colour should be black and font style needed is times new roman.
